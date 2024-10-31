@@ -16,7 +16,7 @@ A simple task management web application built using **Express**, **HTML**, and 
 - **Basic Form Validation**: Ensures that tasks have both title and description before submission.
 
 ## Demo
-
+![Demo Image](https://github.com/chinmay-saraswat/task-management/blob/master/Screenshot%20(232).png)
 
 ## Installation
 
